@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Singh
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning HTML and CSS.
-- visit my <a href="itsashishsingh.github.io">website</a>.
+- visit my website itsashishsingh.github.io
 - 📫 You can contact me through email iamak.rj2@gmail.com
 <!---
 ItsAshishSingh/ItsAshishSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
